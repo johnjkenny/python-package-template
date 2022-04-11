@@ -1,2 +1,2 @@
-# python-package-template
-Template repository to create python packages
+# Project Name Holder
+Project description holder
